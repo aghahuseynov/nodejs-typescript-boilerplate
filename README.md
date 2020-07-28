@@ -2,7 +2,7 @@
 
 
 
-# node-typescript-boilerplate
+# nodejs-typescript-boilerplate
 
 
 
